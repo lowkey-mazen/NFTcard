@@ -1,5 +1,6 @@
 body{
   background-color: hsl(217, 54%, 11%);
+  font-family: outfit,Arial, Helvetica, sans-serif;
 }
 .whole-thing{
   background-color: hsl(216, 50%, 16%);
@@ -15,9 +16,7 @@ body{
   border-radius: 15px;
   margin-top: 15px;
 }
-.picture:hover{
-  
-}
+
 .nft-name{
   color: white;
   margin-top: 20px;
